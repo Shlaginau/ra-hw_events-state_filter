@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-hw_events-state_filter/static/css/main.672563e0.css",
+    "main.js": "/ra-hw_events-state_filter/static/js/main.b4db769f.js",
+    "index.html": "/ra-hw_events-state_filter/index.html",
+    "main.672563e0.css.map": "/ra-hw_events-state_filter/static/css/main.672563e0.css.map",
+    "main.b4db769f.js.map": "/ra-hw_events-state_filter/static/js/main.b4db769f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.672563e0.css",
+    "static/js/main.b4db769f.js"
+  ]
+}
